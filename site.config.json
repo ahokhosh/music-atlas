@@ -1,0 +1,12 @@
+{
+  "id": "music-atlas",
+  "name": "Music Atlas",
+  "nameEn": "Music Atlas",
+  "description": "Music of every nation. Full-length streaming, per-country charts, and personal playlists — free and unlimited.",
+  "icon": "/icons/playlist.svg",
+  "color": "#8b5cf6",
+  "upstream": "http://playlist:3000",
+  "health": "/api/health",
+  "rewrites": false
+}
+
